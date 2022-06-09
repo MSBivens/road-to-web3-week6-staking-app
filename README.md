@@ -23,5 +23,5 @@ Languages: Solidity
 
 1. Clone Repo
    ```sh
-   git clone
+   git clone https://github.com/MSBivens/road-to-web3-week6-staking-app
    ```
